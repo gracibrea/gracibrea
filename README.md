@@ -26,6 +26,6 @@
   <a href = "mailto:claudiagracieli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCAX5Z1KQtjYrHR8odxBX6kA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/gracibrea/gracibrea/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gracibrea/blob/output/github-contribution-grid-snake.svg)
  
 </div>

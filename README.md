@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Cláudia Krüger 🙂
 
 - 🔭 Hoje trabalho numa [ONG](www.recantoesperanca.org.br) assessorando a gestão (nada a ver com programação) mas cuido da página da Web no Wordpress.
-- 🌱 Estou estudando HTML5, CSS3 e Javascript
+- 🌱 Estou estudando HTML5, CSS3 e Javascript a caminho do Front
 - #️⃣ #devEmBreve
 
 

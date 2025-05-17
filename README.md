@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Cláudia Krüger 🙂
 
-- 🔭 Hoje trabalho numa [ONG](www.recantoesperanca.org.br) assessorando a gestão (nada a ver com programação) mas cuido da página da Web no Wordpress.
-- 🌱 Estou estudando HTML5, CSS3 e Javascript a caminho do Front
-- #️⃣ #devEmBreve
+- 🔭 Hoje trabalho em duas ONGS: [Recanto Esperança](www.recantoesperanca.org.br) assessorando a gestão e no [CADI](www.cadi.org.br) na gestão de pessoas.
+- 🌱 Hoje, maio de 2025, estou participando a Imersão IA 2025 da Alura.
 
 
 <div align="center">

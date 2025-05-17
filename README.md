@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Cláudia Krüger 🙂
 
-- 🔭 Hoje trabalho em duas ONGS: [Recanto Esperança](www.recantoesperanca.org.br) assessorando a gestão e no [CADI](www.cadi.org.br) na gestão de pessoas.
+- 🔭 Formada em Serviço Social e Gestào de Pessoas, hoje trabalho em duas ONGS: [Recanto Esperança](www.recantoesperanca.org.br) assessorando a gestão e no [CADI](www.cadi.org.br) na gestão de pessoas.
 - 🌱 Hoje, maio de 2025, estou participando a Imersão IA 2025 da Alura.
 
 
